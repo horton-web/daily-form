@@ -1,0 +1,91 @@
+body {
+	background-color: #ea355c;
+}
+
+form {
+	display: block;
+	width: 57.5%;
+	height: 470px;
+	margin: 60px auto;
+	background-color: #fff;
+}
+
+fieldset {
+	border: none;
+	padding: 30px
+}
+
+legend {
+	font-family: sans-serif;
+	float: left;
+	margin: 0 auto;
+	font-weight: 700;
+	font-size: 22px;
+}
+
+button {
+	background: #ea355a;
+	min-width: 100%;
+	margin-top: 15px;
+	height: 50px;
+	border: none;
+	color: #fff;
+	font-weight: 700;
+	font-size: 18px;
+	border-radius: 5%;
+}
+
+.email {
+	min-width: 100%;
+	margin-top: 15px;
+}
+
+.password {
+	min-width: 100%;
+	margin-top: 15px;
+}
+
+input {
+	line-height: 40px;
+	background-color: #f0f0f0;
+	border: none;
+	border-radius: 5%;
+	padding-left: 1%;
+}
+
+.first-name,
+.last-name {
+	display: inline-block;
+	min-width: 48%;
+}
+
+.last-name {
+	float: right;
+}
+
+span {
+	color: #e12a6c;
+}
+
+span:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+p {
+	color: #7a7b7f;
+	font-family: sans-serif;
+}
+
+img {
+	margin: 0 10px;
+}
+
+
+.first-p {
+	margin-top: 20px;
+}
+
+.last-p {
+	margin-top: 20px;
+}
